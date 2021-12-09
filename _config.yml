@@ -3,3 +3,8 @@ description: Reference pages for The Leaf Pile, a tabletop RPG and slight ARG.
 
 remote_theme: pmarsceill/just-the-docs
 color_scheme: "dark"
+
+footer_content: "There are 69,105 Leaves here."
+last_edit_timestamp: true
+last_edit_time_format: "%b %e %Y at %I:%M %p"
+
