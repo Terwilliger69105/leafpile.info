@@ -4,6 +4,7 @@ permalink: /charactercreation
 nav-order: 1
 
 ---
+
 ## Character Creation
 
 The most important part of any Tabletop RPG, character creation is something you have to do to be able to play The Leaf Pile. So, without any more meaningless text, let's get to it!
