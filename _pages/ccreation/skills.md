@@ -28,3 +28,7 @@ Please take note of the following:
 All **Special Abilities**, *except for **Interface** and **Medical Tech** which are now TECH skills*, are removed from the game and invalid choices.
 
 **Brawling, Fencing,** and **Melee** are now all represented by the single **Melee* skill.
+
+---
+
+[Get Money](/ccreation/cash)
