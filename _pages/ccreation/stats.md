@@ -1,11 +1,17 @@
 ---
-title: Stats
+title: Step 3 - Stats
 permalink: /ccreation/stats
 parent: Character Creation
 nav-order: 4
 ---
 
-In case you don't remember, or don't feel like referencing the core rulebook, the nine major stats are:
+## Step 3 - Stats
+
+With the big parts out of the way, the things which probably determine how you want to play, let's roll the first set of dice.
+
+---
+
+In case you didn't read, don't remember, or don't feel like referencing the core rulebook, the nine major stats are:
 
 * INT (Intelligence)
 * REF (Reflexes)
@@ -19,14 +25,16 @@ In case you don't remember, or don't feel like referencing the core rulebook, th
 
 ---
 
-Determining stats is simple enough, start by rolling **9d6.** Reference the table below for each roll:
+To determine your stats, don't follow the core rulebook. There is no point buy system, you're not rolling 1d10 nine times straight down, or whatever else they suggest. 
+
+**Roll 9d6.** Reference the table below:
 
 ```
 Die Result | 1 | 2 | 3 | 4 | 5 | 6 
 Stat Value | 3 | 4 | 4 | 5 | 5 | 6 
 ```
 
-So, for example, you roll **2, 3, 6, 5, 1, 2, 4, 3, 2**. This would mean that you may assign the values **4, 4, 6, 5, 3, 4, 5, 4, 3** across your nine stats.
+So, for example, let's say you roll **2, 3, 6, 5, 1, 2, 4, 3, 2**. This would mean that you may assign the values **4, 4, 6, 5, 3, 4, 5, 4, 3** across your nine stats. You're not adding these numbers, just take one and place it wherever you feel it fits.
 
 ---
 
