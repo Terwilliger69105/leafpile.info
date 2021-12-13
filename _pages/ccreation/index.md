@@ -22,3 +22,7 @@ In an effort to make this easy, and in an effort to minimize confusion, you will
 ---
 
 Pages are organized in first to last order. Hyperlinks will be provided whenever needed, remember that middle-mouse clicking opens something in a new tab.
+
+---
+
+[Get Started](/ccreation/majorfeatures)
