@@ -15,7 +15,7 @@ You can take a set of Advantages and Disadvantages, extra little special values 
 
 To determine how many APs you have:
 
-*APs = (INT Stat * 3) (+ Role Modifiers)*
+*APs = (INT Stat * 3) + Role Modifiers*
 
 ---
 
