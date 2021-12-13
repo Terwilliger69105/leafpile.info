@@ -11,10 +11,13 @@ Welcome to character creation, the first (and possibly most important) thing you
 
 ---
 
-In an effort to make this easy, and in an effort to minimize confusion, you will only need the following things to go through this:
+In an effort to make this easy, and in an effort to minimize confusion, you will only need the following things:
 
-* A copy of the **Cyberpunk 2020** core rulebook, **CP3002.2**
+* A copy of the **Cyberpunk 2020** core rulebook **CP3002.2**
 * This website
+* One six-sided die (1d6)
+* One ten-sided die (1d10)
+* One "percentile" die (1d% **or** another d10)
 
 ---
 
