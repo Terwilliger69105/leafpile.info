@@ -58,3 +58,7 @@ There are also some stat-based values which you should write down.
 BODY Stat | 1-2 | 3-4 | 5-7 | 8-9 | 10 | 11+
 BTM Value | 0   | -1  | -2  | -3  | -4 | -5 
 ```
+
+---
+
+[Take Advantages and Disadvantages](/ccreation/aad)
