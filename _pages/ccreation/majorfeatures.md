@@ -21,3 +21,7 @@ On your character sheet, please write down the following things:
 * Character Weight
 
 You can follow the actual rulebook way of doing most of these elements, rolling dice to randomly determine elements, but that may feel limited or stupid. Feel free to skip the book and just write these as you please.
+
+---
+
+[Pick Your Role](/ccreation/role)
