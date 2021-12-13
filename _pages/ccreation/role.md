@@ -1,11 +1,15 @@
 ---
-title: Role
-permalink: /ccreation/majorfeatures
+title: Step 2: Role
+permalink: /ccreation/role
 parent: Character Creation
 nav-order: 3
 ---
 
-Now we can move onto the things which you need this guide for!
+## Step 2: Role
+
+Now, with the basics on paper, we can move onto the things which you need this guide for!
+
+---
 
 Roles in The Leaf Pile **do not** match up with the roles in Cyberpunk 2020. These are not skill restrictions and special abilities, instaed being a set of bonuses and specalizations you gain at the start of your game.
 
