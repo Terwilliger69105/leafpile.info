@@ -7,6 +7,15 @@ has_children: true
 
 ## Character Creation
 
-The most important part of any Tabletop RPG, character creation is something you have to do to be able to play The Leaf Pile. So, without any more meaningless text, let's get to it!
+Welcome to character creation, the first (and possibly most important) thing you should do for playing in any tabletop role-playing game!
 
-Pages are organized from first to last, just go down the sidebar and you'll have a complete sheet!
+---
+
+In an effort to make this easy, and in an effort to minimize confusion, you will only need the following things to go through this:
+
+* A copy of the **Cyberpunk 2020** core rulebook, **CP3002.2**
+* This website
+
+---
+
+Pages are organized in first to last order. Hyperlinks will be provided whenever needed, remember that middle-mouse clicking opens something in a new tab.
