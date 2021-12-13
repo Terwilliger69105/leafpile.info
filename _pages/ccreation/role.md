@@ -11,9 +11,17 @@ Now, with the basics on paper, we can move onto the things which you need this g
 
 ---
 
-Roles in The Leaf Pile **do not** match up with the roles in Cyberpunk 2020. These are not skill restrictions and special abilities, instaed being a set of bonuses and specalizations you gain at the start of your game.
+Deviating from the core rulebook, roles in *The Leaf Pile* are entirely different than the usual. Please ignore the core rulebook and skip past the Roles section. Instead, go take a look through the [Roles](/info/roles) page.
 
-Take a look through the [Roles](/info/roles) page, open it in a new tab, and browse for a role which seems fun. If none look interesting, an issue which may occur, stop right here and contact your GM.
+---
 
-When you've decided which role you want, check if it has a **Max Players** value. If it does, please contact your GM before going further. They'll check to see if the role cap is reached and respond back as soon as possible. If it doesn't, write your role down and continue onwards!
+Found your role? Awesome! If your role has a "Max Players" value, and there's a good chance it does, message your GM about having said role and stop right here. Role requests will be processed in a "first come first served" manner, by time and date, and GMs will make sure to post when roles have hit their player cap in chat. If not, or if your role has been confirmed, move onto the next section!
 
+Can't find a role you like? We fully expect that to happen. You have two options at this point, both require you to message your GM:
+
+1. Ask for a new role, maybe more in line with whatever you prefer, and all GMs will work together to try and help you out.
+2. Ask for the "Roleless" package.
+
+---
+
+[Roll Your Stats](/ccreation/stats)
