@@ -1,5 +1,5 @@
 ---
-title: Step 2: Role
+title: Step 2 - Role
 permalink: /ccreation/role
 parent: Character Creation
 nav-order: 3
