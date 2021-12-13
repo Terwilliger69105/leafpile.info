@@ -1,5 +1,5 @@
 ---
-title: Step 1: Major Features
+title: Step 1 - Major Features
 permalink: /ccreation/majorfeatures
 parent: Character Creation
 nav-order: 2
