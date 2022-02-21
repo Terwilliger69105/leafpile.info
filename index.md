@@ -3,14 +3,12 @@ title: Homepage
 nav_order: 1
 ---
 
-Welcome to **leafpile.info**, a project page for a little variation on the Cyberpunk 2020 tabletop role-playing game rule set! 
+Welcome to **leafpile.info**, a project page and guide to *The Leaf Pile.* Starting out as a set of modifications to the *Cyberpunk 2020* ruleset, potentially (eventually) morphing into a thing of its own, *The Leaf Pile* is hopefully something that some people may find enjoyable.
 
-This site is designed to allow anyone, no matter how inexperienced with tabletop role-playing games, to create a character and get a grasp on the rules which will commonly be used throughout the course of the game.
-
-Looking to create a character? Want to know what some weapon you just got does? Trying to find out how Netrunning works? This site will have everything you need!
+This site should be designed to allow anyone, with maybe a slight amount of help from the GM, to create a character and get themselves playing in *The Leaf Pile.*
 
 ---
 
-Enjoy,
+Looking to create a character? Want to know what some weapon you just got does? Got some cryptic link as a part of a mission? This site will have everything you need!
 
-*Andrew T.*
+Use the sidebar to get started browsing through the content we currently have available to players.
