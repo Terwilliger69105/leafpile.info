@@ -17,7 +17,7 @@ Much of the gear listed here, as with any game of the sort, is going to:
 * Prevent you from taking damage
 * Regenerate damage done to you
 
-For the time of writing (2/21/2022) this makes the most sense as **Test Game** will be held in a simpler fashion. Eventually, whenever this goes to a full game with full setting, we will include things of more use than just combat.
+For the time of writing (2/21/2022) this makes the most sense as **Test Game** will be held in a simpler fashion. Eventually, whenever this goes to a full game with full setting, we will include things of more use obvious use than just survival or combat.
 
 ---
 
