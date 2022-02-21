@@ -1,7 +1,7 @@
 ---
 title: Gear
 permalink: /info/gear
-nav-order: 3
+nav-order: 4
 has_children: true
 ---
 
