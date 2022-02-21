@@ -1,6 +1,7 @@
 ---
 title: Roles
 permalink: /info/roles
+parent: Homepage
 nav-order: 5
 has_children: true
 ---
