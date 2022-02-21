@@ -1,5 +1,5 @@
 ---
-title: Game 0.1 - Test Game
+title: 0.1 - Test Game
 permalink: /info/testgame
 nav-order: 7
 has_children: true
