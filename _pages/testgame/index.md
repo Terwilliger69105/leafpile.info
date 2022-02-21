@@ -1,6 +1,7 @@
 ---
 title: 0.1 - Test Game
 permalink: /info/testgame
+parent: Homepage
 nav-order: 7
 has_children: true
 ---
