@@ -1,7 +1,7 @@
 title: The Leaf Pile
 description: Reference pages for The Leaf Pile, a tabletop RPG and slight ARG.
 
-include: ['_pages']
+include: ['docs']
 
 remote_theme: pmarsceill/just-the-docs
 color_scheme: "dark"
