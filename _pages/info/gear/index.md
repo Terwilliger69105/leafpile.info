@@ -21,3 +21,6 @@ For the time of writing (2/21/2022) this makes the most sense as **Test Game** w
 
 ---
 
+Use the sidebar to browse each category, anything in these pages is open for you to buy, and spend your money as you see fit.
+
+Don't forget to check out your Company Package! Everything listed there is being given for free.
