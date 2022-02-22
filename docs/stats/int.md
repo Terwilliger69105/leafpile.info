@@ -7,8 +7,14 @@ nav_order: 2
 
 ## Intelligence
 
-The "smarts" stat. A measure of your ability to solve through issues, this is probably important for *every* character to some extent. Noticing, remembering, solving, and figuring things out all fall under this skill.
+"Intelligence is a measure of your problem solving ability; figuring out problems, noticing things, remembering information."
 
 ---
 
-There are **no** sub-stats influenced by your Intelligence stat.
+This stat is varied, with few "common" instances of rolls but lots of useful rolls depending on how your character is built.
+
+---
+
+Common INT Rolls:
+
+Knowledge Check =	**INT** + *Most Relevant Skill* + 1d10
