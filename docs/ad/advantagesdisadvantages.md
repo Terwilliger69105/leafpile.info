@@ -1,7 +1,7 @@
 ---
 title: Advantages and Disadvantages
 permalink: /ad
-nav-order: 5
+nav_orderorder: 5
 has_children: true
 ---
 
