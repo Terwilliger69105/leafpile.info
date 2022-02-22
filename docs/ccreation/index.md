@@ -1,7 +1,7 @@
 ---
 title: Character Creation
 permalink: /ccreation/
-nav-order: 2
+nav_order: 2
 has_children: true
 ---
 
